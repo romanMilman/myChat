@@ -1,0 +1,13 @@
+######################## NEW RUN ############################
+2021-10-31 16:55:26 D BMClient: ComController initialized
+2021-10-31 16:55:26 D LoginPortalView: loginWindow initialized
+2021-10-31 16:55:26 I LoginWindow: showing window
+2021-10-31 16:55:26 D ComController: PortalView initialized
+2021-10-31 16:55:28 D ComController: connection established
+2021-10-31 16:55:28 D LoginWindow: updating status to: connected
+2021-10-31 16:55:56 I LoginWindow: onLoginButton CLICK !!!
+2021-10-31 16:55:58 D ComController: Received message from server
+2021-10-31 16:55:58 I ComController: messageType: handshake
+2021-10-31 16:55:58 D CustomerPortalView: loginWindow initialized
+2021-10-31 16:55:58 I CustomerWindow: showing window
+2021-10-31 16:56:00 D BMClient: javaFX window application stoped

@@ -1,0 +1,34 @@
+######################## NEW RUN ############################
+2021-12-03 14:34:02 D DataBase : Driver definition succeed
+2021-12-03 14:34:02 D DataBase: DB user name: root
+2021-12-03 14:34:02 D DataBase: DB password: i@mAdm1n
+2021-12-03 14:34:03 D DataBase : SQL connection succeed
+2021-12-03 14:34:03 D PeriodicActivityService : Periodic activity service started
+2021-12-03 14:34:06 D ComController: client : 127.0.0.1 (127.0.0.1) connected
+2021-12-03 14:34:11 D LoginPortalViewController: handleCommandFromClient: {"password":"123","command":"login was pressed","username":"roman"}
+2021-12-03 14:34:11 D DATABASE: user (roman) is approved
+2021-12-03 14:34:11 D LoginPortalViewController: Client = 127.0.0.1 (127.0.0.1) logged in as : branch manager
+2021-12-03 14:34:50 W ComController: client exception
+2021-12-03 14:34:54 D ComController: client : 127.0.0.1 (127.0.0.1) connected
+2021-12-03 14:34:57 D LoginPortalViewController: handleCommandFromClient: {"password":"123","command":"login was pressed","username":"roman"}
+2021-12-03 14:34:57 D DATABASE: user (roman) is approved
+2021-12-03 14:34:57 D LoginPortalViewController: Client = 127.0.0.1 (127.0.0.1) logged in as : branch manager
+2021-12-03 14:34:57 D LoginPortalViewController: handleCommandFromClient: {"home page":"branch manager","command":"home page is ready"}
+2021-12-03 14:34:57 D LoginPortalViewController: home page : branch manager is ready
+2021-12-03 14:34:57 W LoginPortalViewController: portal been switched to: branch manager
+2021-12-03 14:34:57 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"client register was pressed"}
+2021-12-03 14:34:58 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"registration window is ready"}
+2021-12-03 14:34:58 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:34:58 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"regular registration button was pressed"}
+2021-12-03 14:34:58 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"regular registration window is ready"}
+2021-12-03 14:34:58 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:34:59 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"registration window is ready"}
+2021-12-03 14:34:59 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:35:00 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"bussiness registration button was pressed"}
+2021-12-03 14:35:00 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"business registration window is ready"}
+2021-12-03 14:35:00 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:35:01 D BranchManagerPortalViewController: handleCommandFromClient: {"command":"registration window is ready"}
+2021-12-03 14:35:01 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:35:01 D BranchManagerPortalViewController: handleCommandFromClient: {"home page":"branch manager","command":"home page is ready"}
+2021-12-03 14:35:01 D BranchManagerPortalViewController: unknown message in handleCommandFromClient
+2021-12-03 14:35:03 W ComController: client exception
